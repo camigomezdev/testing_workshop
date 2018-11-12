@@ -1,9 +1,6 @@
 // Import test
 let test = require('assert');
-
-//import '../Codebreaker'
-var Codebreaker = require('../codebreaker');
-let codebreaker = new Codebreaker()
+var guess = require('../codebreaker');
 
 describe( 'Test pass', function(){
   it('is true', function(){
@@ -13,6 +10,6 @@ describe( 'Test pass', function(){
 
 describe('Codebreaker Test', function(){
     it('This is a test case', function(){
-        // TODO: Test here
+        // TODO: Test case here
     })
 })

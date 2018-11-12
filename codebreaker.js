@@ -1,9 +1,9 @@
-class Codebreaker {
-  guess(number) {
-    // TODO: Logic Here
+var realNumber = "1234";
 
-    return "XXXX";
-  }
+ const guess = function(number) {
+  // TODO: Logic Here
+
+  return "XXXX";
 }
 
-module.exports = Codebreaker;
+module.exports = guess;
