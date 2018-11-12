@@ -1,0 +1,23 @@
+{
+  "name": "testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "nyc mocha --reporter spec test/**.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/camigomez35/piocamp_testing.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/camigomez35/piocamp_testing/issues"
+  },
+  "homepage": "https://github.com/camigomez35/piocamp_testing#readme",
+  "devDependencies": {
+    "mocha": "^5.2.0",
+    "nyc": "^13.1.0"
+  }
+}
