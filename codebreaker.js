@@ -1,6 +1,8 @@
 class Codebreaker {
-  adivinar(numero) {
+  guess(number) {
     // TODO: Logic Here
+
+    return "XXXX";
   }
 }
 

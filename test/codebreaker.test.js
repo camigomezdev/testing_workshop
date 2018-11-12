@@ -1,7 +1,8 @@
+// Import test
 let test = require('assert');
-var Codebreaker = require('../codebreaker');
 
 //import '../Codebreaker'
+var Codebreaker = require('../codebreaker');
 let codebreaker = new Codebreaker()
 
 describe( 'Test pass', function(){
