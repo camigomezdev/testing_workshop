@@ -1,4 +1,7 @@
-# Testing - Piocamp
+# Codebreaker
+## Testing - Piocamp
+
+Open in browser index.html
 
 ### Run test
 
